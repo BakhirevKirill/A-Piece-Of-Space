@@ -1,0 +1,16 @@
+Key,English,Russian
+Main.Start,Start,Начать
+Main.Settings,Settings,Настройки
+Main.Quit,Quit,Выход
+Main.BestScore,Best Score,Рекорд
+Settings.Back,Back,Назад
+Game.HP,HP,Жизни
+Game.Score,Score,Очки
+Game.BestScore,Best Score,Рекорд
+Pause.Continue,Continue,Продолжить
+Pause.Settings,Settings,Настройки
+Pause.Quit,Quit,Выход
+Loose.Restart,Restart,Заново
+Loose.Settings,Settings,Настройки
+Loose.Quit,Quit,Выход
+GSettings.Back,Back,Назад
