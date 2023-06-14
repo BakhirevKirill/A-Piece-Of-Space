@@ -100,7 +100,6 @@ sysinfo.txt
 # Builds
 *.aab
 *.unitypackage
-*.app
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -117,8 +116,7 @@ crashlytics-build.properties
 
 #Visual Studio files
 *.[Oo]bj 
-*.user 
-*.aps 
+*.user  
 *.pch 
 *.vspscc 
 *.vssscc 
