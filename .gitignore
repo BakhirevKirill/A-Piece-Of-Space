@@ -44,7 +44,6 @@
 *.pdb.meta
 *.mdb.meta
 */sysinfo.txt
-*.apk
 *.unitypackage
 crashlytics-build.properties
 
@@ -99,7 +98,6 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
 *.aab
 *.unitypackage
 *.app
