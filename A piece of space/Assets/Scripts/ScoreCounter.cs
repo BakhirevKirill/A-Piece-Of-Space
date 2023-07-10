@@ -30,9 +30,19 @@ public class ScoreCounter : MonoBehaviour
         score += 1;
     }
     
+    public void HealthScoreCount()
+    {
+        score += 10;
+    }
+    
+    public void FireScoreCount()
+    {
+        score += 30;
+    }
+    
     public void BlackScoreCount()
     {
-        score += 50;
+        score += 100;
     }
     
 }

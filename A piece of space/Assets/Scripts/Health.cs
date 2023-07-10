@@ -30,7 +30,7 @@ public class Health : MonoBehaviour
         
         if (score != null)
         {
-            score.ScoreCount();
+            score.HealthScoreCount();
             Destroy(gameObject);
         }
 

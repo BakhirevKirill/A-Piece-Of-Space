@@ -31,7 +31,7 @@ public class FireBall : MonoBehaviour
         
         if (score != null)
         {
-            score.ScoreCount();
+            score.FireScoreCount();
             Destroy(gameObject);
         }
 

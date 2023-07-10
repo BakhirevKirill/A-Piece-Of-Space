@@ -9,8 +9,8 @@ public class Spawn : MonoBehaviour
     public float start_time_delay;
     private float time_delay = 0.5f;
     private Vector2 spawn_point;
-    public int max_spawn_count = 1;
-    public int min_spawn_count = 3;
+    public static int max_spawn_count = 2;
+    public static int min_spawn_count = 1;
     
     
     void Start()
@@ -29,6 +29,15 @@ public class Spawn : MonoBehaviour
         else
         {
             time_delay -= Time.deltaTime;
+        }
+
+        if (ScoreCounter.score > 200)
+        {
+            max_spawn_count = 3;
+        }
+        if (ScoreCounter.score > 5000)
+        {
+            min_spawn_count = 2;
         }
     }
     

@@ -2037,6 +2037,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenuUi: {fileID: 7781371647752007432}
   looseMenu: {fileID: 979475584}
+  settingMenu: {fileID: 0}
+  helpMenu: {fileID: 0}
+  select: {fileID: 0}
 --- !u!1 &8417181452175700954
 GameObject:
   m_ObjectHideFlags: 0

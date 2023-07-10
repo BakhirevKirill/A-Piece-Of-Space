@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731904473848",
+    "project_id": "leaderboard-9589b",
+    "storage_bucket": "leaderboard-9589b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731904473848:android:6fd9c14c7cd52a1c72990d",
+        "android_client_info": {
+          "package_name": "com.BestGamesProduction.Apieceofspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731904473848-2dbt8lrqrg59aitokbq2a45482mdkomn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbb_oTMqbSP4iZEhEd_IChzxqSAdYJnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731904473848-2dbt8lrqrg59aitokbq2a45482mdkomn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

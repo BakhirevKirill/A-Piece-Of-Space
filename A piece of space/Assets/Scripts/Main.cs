@@ -127,7 +127,7 @@ public class Main : MonoBehaviour
         {
             if ((position.y < 16) && (position.y > -16))
             {
-                position.y += 0.04f * delta.y;
+                position.y += 0.03f * delta.y;
             }
             else
             {
@@ -146,7 +146,7 @@ public class Main : MonoBehaviour
         
             if ((position.x < 34) && (position.x > -34))
             {
-                position.x += 0.04f * delta.x;
+                position.x += 0.03f * delta.x;
             }
             else
             {
